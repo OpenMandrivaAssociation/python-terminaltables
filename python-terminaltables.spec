@@ -1,6 +1,6 @@
 Name:		python-terminaltables
 Version:	3.1.10
-Release:	1
+Release:	2
 Summary:	Generate simple tables in terminals from a nested list of strings
 License:	MIT
 Group:		Development/Python
